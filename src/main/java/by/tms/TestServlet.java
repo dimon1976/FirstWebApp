@@ -21,6 +21,4 @@ public class TestServlet extends HttpServlet {
         resp.getWriter().println("Result - "+Service.selection(operation, n1, n2));
 
     }
-
-
 }
