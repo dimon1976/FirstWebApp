@@ -12,6 +12,9 @@ pom.xml
 .idea
 .idea/*
 .idea/**
+target
+target/*
+target/**
 
 # Generated files
 .idea/**/contentModel.xml
