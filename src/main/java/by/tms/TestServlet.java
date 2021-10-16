@@ -26,6 +26,4 @@ public class TestServlet extends HttpServlet {
 //        requestDispatcher.forward(req,resp);
 
     }
-
-
 }
