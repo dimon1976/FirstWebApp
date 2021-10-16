@@ -5,7 +5,7 @@ public class Service {
     public static double selection(String op, double n1, double n2) {
         switch (op) {
             case "sum":
-                return summ(n1, n2);
+                return sum(n1, n2);
             case "div":
                 return div(n1, n2);
             case "subtrack":
@@ -18,7 +18,7 @@ public class Service {
         return 0;
     }
 
-    public static double summ(double n1, double n2) {
+    public static double sum(double n1, double n2) {
         return n1 + n2;
     }
 
